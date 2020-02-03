@@ -18,3 +18,6 @@ Special thanks to [Jesse Thompson](https://twitter.com/espritex) for the 3D arm 
   <img width="600" height="337" src="https://github.com/andrewobx/GGJ2020-HAMMER/blob/master/Screenshots/2.png">
   <img width="600" height="337" src="https://github.com/andrewobx/GGJ2020-HAMMER/blob/master/Screenshots/3.PNG">
 </p>
+
+## Play our game!
+Clone or download the repo. Unzip the ArmSimulatorBuild package and then run the Arm Simulator.exe. Enjoy!
