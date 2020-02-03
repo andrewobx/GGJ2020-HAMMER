@@ -3,13 +3,13 @@
 A game inspired by the famous ragdoll game [QWOP](http://www.foddy.net/Athletics.html) where you control an arm instead of legs. Use the keys "A" and "S" for the wrist, "G" and "H" for the forearm, and "K" and "L" for the bicep/shoulder. To make it more interesting, bring in your friends to control one limb each! So... can you "nail" it?
 
 ## Team Members:
-1. Daniel Ichiyama
-2. Kevin Guo
-3. Brad McKinney
-4. Andrew Obiano
-5. Tom Knapp-Ramos
+1. [Daniel Ichiyama](https://github.com/danieltichiyama)
+2. [Kevin Guo](https://github.com/kevinchguo)
+3. [Tom Knapp-Ramos](https://github.com/tomknappramos)
+4. [Brad McKinney](https://github.com/badmckinney)
+5. [Andrew Obiano](https://github.com/andrewobx)
 
-<p>Special thanks to Jesse Thompson for creating our 3D arm model.</p>
+Special thanks to [Jesse Thompson](https://twitter.com/espritex) for the 3D arm model and [Kodekrakkerz](https://soundcloud.com/kodekrakkerz) for the music.
 
 [Army Rust](https://www.dafont.com/army-rust.font?text=UNDER+CONSTRUCTION) font from [dafont.com](www.dafont.com)
 
