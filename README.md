@@ -12,3 +12,9 @@ A game inspired by the famous ragdoll game [QWOP](http://www.foddy.net/Athletics
 <p>Special thanks to Jesse Thompson for creating our 3D arm model.</p>
 
 [Army Rust](https://www.dafont.com/army-rust.font?text=UNDER+CONSTRUCTION) font from [dafont.com](www.dafont.com)
+
+<p align="center">
+  <img width="600" height="337" src="https://github.com/andrewobx/GGJ2020-HAMMER/blob/master/Screenshots/1.png">
+  <img width="600" height="337" src="https://github.com/andrewobx/GGJ2020-HAMMER/blob/master/Screenshots/2.png">
+  <img width="600" height="337" src="https://github.com/andrewobx/GGJ2020-HAMMER/blob/master/Screenshots/3.PNG">
+</p>
