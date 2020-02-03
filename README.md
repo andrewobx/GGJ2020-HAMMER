@@ -21,3 +21,5 @@ Special thanks to [Jesse Thompson](https://twitter.com/espritex) for the 3D arm 
 
 ## Play our game!
 Clone or download the repo. Unzip the ArmSimulatorBuild package and then run the Arm Simulator.exe. Enjoy!
+
+Note: Unfortunately, the game only supports Windows operating systems.
